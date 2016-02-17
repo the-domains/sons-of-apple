@@ -1,0 +1,14 @@
+layout_spectrum: 0.9640172
+typography_spectrum: 0.5139635
+color:
+  saturation: 0.9998407
+  lightness: 0.3750526
+  brandStrength: 0.05209452
+  brandColors:
+    - '#1F1F28'
+    - '#CFD0D7'
+    - '#5C5B5C'
+    - '#FFFEFF'
+    - '#883820'
+  rhythmicContrast: 0.178389
+name: Sons of Apple
